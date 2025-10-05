@@ -4,7 +4,7 @@ data:
   asset.name: promoter-test-0003
   github.org: crenshaw-dev
   github.url: https://github.com
-  timestamp: "2025-10-05T00:40:54Z"
+  timestamp: "2025-10-05T00:46:25Z"
 kind: ConfigMap
 metadata:
   labels:
