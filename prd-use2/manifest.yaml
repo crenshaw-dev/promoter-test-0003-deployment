@@ -1,0 +1,13 @@
+apiVersion: v1
+data:
+  asset.id: "0003"
+  asset.name: promoter-test-0003
+  github.org: crenshaw-dev
+  github.url: https://github.com
+  timestamp: "2025-10-05T00:04:19Z"
+kind: ConfigMap
+metadata:
+  labels:
+    app: promoter-test-0003
+    asset-id: "0003"
+  name: promoter-test-0003-config
